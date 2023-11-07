@@ -228,40 +228,27 @@ p {
 }
 
 #about {
-	height: calc(20vh);
+	height: 10%;
+	margin-bottom: 10px;
 }
 
 /* Contact/ Footer */
-.contactinfo {
-	display: flex;
-	align-self: stretch;
-	justify-content: space-evenly;
-	flex-wrap: wrap;
-	list-style-type: none;
-	width: 100%;
-	font-size: 20px;
-}
-
-.contactinfo li {
-	display: block;
-	flex: 0 1 auto;
-	padding: 10px;
-}
-
 .contactinfo a {
 	color: var(--light-grey);
 	text-decoration: none;
+	padding: 20px;
 }
 
 .contactinfo a:hover {
 	color: var(--netural-green);
 }
 
-footer {
+#footer {
 	position: absolute;
-	width: 100%;
-	margin-top: 250px;
-	margin-bottom: 150px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: auto;
+	margin-right: auto;
 }
 /* End of Contact/ Footer */
 
