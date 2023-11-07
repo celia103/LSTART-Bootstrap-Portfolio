@@ -20,6 +20,7 @@ body {
 		"Lucida Sans", Arial, sans-serif;
 	line-height: 1.5;
 	background-color: var(--bs-dark);
+	padding-top: 2rem;
 }
 
 h2 {
