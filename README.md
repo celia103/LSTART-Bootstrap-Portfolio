@@ -21,12 +21,12 @@ This project demonstrates the creation of a visually attractive and responsive p
 [Visit the GitHub repository](https://github.com/celia103/LSTART-Bootstrap-Portfolio)
 
 - Application Screenshot:
-  
-![Application Screenshot](./assets/Bootstrap-Screenshot1.png)
+
+![Application Screenshot](./assets/Bootstrap-Screenshot1.jpg)
 
 - Application Screenshot (Mobile):
-  
-![Application Screenshot](./assets/Bootstrap-Screenshot2.png)
+
+![Application Screenshot](./assets/Bootstrap-Screenshot2.jpg)
 
 ## License
 
