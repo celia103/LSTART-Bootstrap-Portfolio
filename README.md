@@ -1,4 +1,4 @@
-# LSTART (Celia's Portfoilo Website)
+# LSTART-Bootstrap-Portfolio
 
 ## Description
 
