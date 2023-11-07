@@ -2,7 +2,7 @@
 
 ## Description
 
-The project is built mainly using a combination of HTML and CSS, with additional frameworks FontAwesome for icons. It provides visitors know more about my background, skills, works and experiences.
+This project demonstrates the creation of a visually attractive and responsive portfolio layout utilizing the Bootstrap CSS Framework. It builds upon a previous project, combining HTML and CSS with additional FontAwesome framework for icons. The portfolio provides visitors with information about my background, skills, work, and experiences.
 
 ## Folder Structure
 
@@ -11,20 +11,20 @@ The project is built mainly using a combination of HTML and CSS, with additional
   - **css:** css file for styling
   - **img:** images files for website
 - **README.md:** This file.
-- **LSTART-Screenshot1.jpg:** Screenshot for the HTML file.
-- **LSTART-Screenshot2.jpg:** Mobile version screenshot for the HTML file.
+- **Bootstrap-Screenshot1.jpg:** Screenshot for the HTML file.
+- **Bootstrap-Screenshot2.jpg:** Mobile version screenshot for the HTML file.
 
 ## Links
 
-[Visit my application](https://celia103.github.io/LSTART/)
+[Visit my application](https://celia103.github.io/LSTART-Bootstrap-Portfolio/)
 
-[Visit the GitHub repository](https://github.com/celia103/LSTART)
+[Visit the GitHub repository](https://github.com/celia103/LSTART-Bootstrap-Portfolio)
 
 Application Screenshot:
-![Application Screenshot](./assets/LSTART-Screenshot1.jpg)
+![Application Screenshot](./assets/Bootstrap-Screenshot1.png)
 
 Application Screenshot (Mobile):
-![Application Screenshot](./assets/LSTART-Screenshot2.jpg)
+![Application Screenshot](./assets/Bootstrap-Screenshot2.png)
 
 ## License
 
@@ -32,11 +32,11 @@ MIT License
 
 ## Self-study Reference
 
-- **For mobile menu (hamburger):**
-  https://dev.to/javascriptacademy/responsive-navigation-bar-with-mobile-menu-using-html-css-2hpd
+- **For Works section (text overlays):**
+  https://www.matthinchliffe.dev/2013/12/16/smooth-text-overlays-with-css-transforms.html
 
 ## Image Sources
 
 - **From Midjourney:** avatar.png
-- **From Freepik (with license):** bg.jpg(modifed),bootstrap.png, java.jpg
-- **My own work:** cheatsheet.png, horiseon.jpg, illustration2.jpg
+- **From Freepik (with license):** bg.jpg(modifed), java.jpg
+- **My own work:** cheatsheet.png, horiseon.jpg, illustration.jpg
